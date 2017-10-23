@@ -1,4 +1,4 @@
 ## I'm Marcel and I <3 to code
-![PersonalPhoto](/images/photo.jpg)
+![PersonalPhoto](asset/images/photo.jpg)
 Format: ![Alt Text](url)
 
