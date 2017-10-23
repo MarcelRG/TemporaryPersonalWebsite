@@ -1,4 +1,4 @@
-## I'm Marcel and I :heart: to code
+## I'm Marcel and I <3 to code
 
 You can use the [editor on GitHub](https://github.com/MarcelRG/testwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
